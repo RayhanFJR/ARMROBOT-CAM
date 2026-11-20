@@ -1,0 +1,15 @@
+# Computer Vision & Calibration
+opencv-contrib-python==5.0.0.93
+
+# Math, Numerics & Kinematics / Planning
+numpy==2.2.6
+scipy==1.15.3
+
+# Visualization / Plotting
+matplotlib==3.10.9
+pillow==12.3.0
+PyOpenGL==3.1.10
+PyOpenGL-accelerate==3.1.10
+
+# Hardware Serial Communication (ESP32)
+pyserial==3.5
